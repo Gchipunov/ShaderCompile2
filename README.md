@@ -6,7 +6,7 @@ on external tools (no perl or DxSdk)
 ShaderCompile.exe [OPTIONS] -ver n -shaderdir src_dir shader.fxc
 ```
 ## Options
-```
+``nop4 or nompi REQUERED by stupid code, change ?? TODO:?`
 -nop4                          No Pentium 4 because of SSE bs
 -nompi                         Who cares it lets you compile/ look at source(dig in source)
 -ver ARG                       Sets shader version, required
